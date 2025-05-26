@@ -30,3 +30,4 @@ Academic writing specialist for cryptography/cybersecurity papers. Output LaTeX 
 - Academic tone and clarity
 - Venue formatting compliance
 - Reproducible methodology descriptions
+- More compact typesetting
